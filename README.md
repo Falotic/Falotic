@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Zamora, Spain
 - 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
-- 🧠  Currently learning MERN
+- 🧠  Currently learning Advanced ReactJS
 - 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
